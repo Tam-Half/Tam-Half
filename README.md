@@ -4,15 +4,11 @@
 
 ###
 
-<h2 align="left">About me :</h2>
+<h4 align="left">About me :</h4>
 
 ###
 
 <p align="left">👋 Hi, I'm Tam<br>🌱 Currently exploring: AWS, Ansible,  Terraform & Kubernetes.<br>🎮 Outside of work: I enjoy boxing, listening to music, and gaming whenever I have free time.</p>
-
-###
-
-<h1 align="left"></h1>
 
 ###
 
@@ -93,16 +89,6 @@
 ###
 
 <h2 align="left"></h2>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tam-Half/Tam-Half/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tam-Half/Tam-Half/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Tam-Half/Tam-Half/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
